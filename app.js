@@ -2,9 +2,11 @@ const http = require('http');
 const port = 3000;
 
 const server = http.createServer((req, res) => {
+  // Generate current date and time
   const now = new Date();
   const dateTime = now.toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' });
 
+  // HTML page
   const message = `
   <!DOCTYPE html>
   <html lang="en">
