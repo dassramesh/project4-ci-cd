@@ -3,7 +3,7 @@
  ##  Deliverables:-
 
 ###  1. GitHub Repository:
-**Repo Name:** [project4-ci-cd] (https://github.com/dassramesh29/project4-ci-cd)
+ Repo Name: project4-ci-cd
 
 Contains:
 - Source code
@@ -18,6 +18,7 @@ Contains:
 You can pull the image using:
 ```bash
 docker pull dassramesh29/project4-ci-cd:latest
+
 
 
 
