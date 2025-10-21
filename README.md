@@ -24,7 +24,7 @@ You can pull the image using:
 ---
 
 ### 3. Deployed Application (Screenshots):
-Included the following screenshots in my screenshot folder
+Included the following screenshots in file
 
  1. Screenshot of successful workflow (GitHub Actions “green tick”)
 
@@ -33,3 +33,4 @@ Included the following screenshots in my screenshot folder
  3. Screenshot of app running at localhost 3000
 
     # THANK YOU
+
