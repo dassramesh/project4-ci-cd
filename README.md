@@ -8,7 +8,7 @@
 Contains:
 - Source code
 - Dockerfile
-- GitHub Actions workflow (`.github/workflows/main.yml`)
+- GitHub Actions workflow (`.github/workflows/ci-cd.yml`)
 
 ---
 
@@ -18,6 +18,7 @@ Contains:
 You can pull the image using:
 ```bash
 docker pull dassramesh29/project4-ci-cd:latest
+
 
 
 
